@@ -17,7 +17,7 @@ All tools support: keyword search (AND/OR/NOT), country, language, category, dom
 ## Prerequisites
 
 1. **Node.js** 18+ installed
-2. **NewsData.io API key** — get one free at [newsdata.io](https://newsdata.io)
+2. **NewsData.io API key** — sign up at [newsdata.io](https://newsdata.io), then copy your key from the [search dashboard](https://newsdata.io/search-dashboard)
 
 ## Setup
 
@@ -30,6 +30,8 @@ npm run build
 ```
 
 ### 2. Set your API key
+
+Copy your API key from the [NewsData.io search dashboard](https://newsdata.io/search-dashboard), then:
 
 ```bash
 export NEWSDATA_API_KEY="your_api_key_here"
