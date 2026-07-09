@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "newsdata": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "env": {
+        "NEWSDATA_API_KEY": "${NEWSDATA_API_KEY}"
+      }
+    }
+  }
+}
