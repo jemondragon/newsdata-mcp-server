@@ -73,7 +73,7 @@ async function fetchNewsData(
 ): Promise<unknown> {
   if (!API_KEY) {
     throw new Error(
-      "NEWSDATA_API_KEY environment variable is not set. Get your key at https://newsdata.io"
+      "NEWSDATA_API_KEY environment variable is not set. Get your key at https://newsdata.io/search-dashboard"
     );
   }
 
