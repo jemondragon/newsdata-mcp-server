@@ -1,1 +1,9 @@
 date,section,flag_name,value,threshold,note
+2026-07-24,SEC9,BRENT_>5%_WoW,+9.39%,>5% w/w,"Brent 96.37, briefly >100 intraday; Hormuz escalation"
+2026-07-24,SEC8,USDJPY_INTERVENTION,163.81,>=162,multi-decade yen low
+2026-07-24,SEC8,CARRY_MAX_EXTENDED,99% of 52wk range,within 2% of high,AUDJPY 114.48 vs high 114.76
+2026-07-24,SEC7,WEAK_AUCTION_5Y,indirect 53.5%,>5pt below 59.5% avg,06-24 auction
+2026-07-24,SEC7,WEAK_AUCTION_10Y,indirect 58.3%,>5pt below 63.6% avg,"07-23 auction, BtC 2.30 vs 2.50"
+2026-07-24,SEC1,NET_LIQ_DRAINING,-153978,sign flip from ADDING,"reserves -80.6bn, TGA +73.4bn rebuild"
+2026-07-24,SEC4,GOLD_REAL_DIVERGING,gold +1.39% / real +7bps,both up,debasement tell
+2026-07-24,SEC6,LABOR_WATCH_SOFT,"MA 207.5k, +11% off low",soft: below 260k floor,hard LABOR SOFTENING not triggered; ICSA fell -22k
