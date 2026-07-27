@@ -7,3 +7,5 @@ date,section,flag_name,value,threshold,note
 2026-07-24,SEC1,NET_LIQ_DRAINING,-153978,sign flip from ADDING,"reserves -80.6bn, TGA +73.4bn rebuild"
 2026-07-24,SEC4,GOLD_REAL_DIVERGING,gold +1.39% / real +7bps,both up,debasement tell
 2026-07-24,SEC6,LABOR_WATCH_SOFT,"MA 207.5k, +11% off low",soft: below 260k floor,hard LABOR SOFTENING not triggered; ICSA fell -22k
+2026-07-27,SEC11,CROWDED_LONG_ZT,"100th pctile, net -1,154,597, w/w +2,880",>90th pctile of trailing 52wk,"UST 2Y NOTE - CBT, as-of Tue 2026-07-21, least-short spec positioning in past year"
+2026-07-27,SEC11,CROWDED_SHORT_ZB,"4th pctile, net -186,790, w/w -7,734",<10th pctile of trailing 52wk,"UST BOND - CBT, as-of Tue 2026-07-21, near most-short spec positioning in past year"
