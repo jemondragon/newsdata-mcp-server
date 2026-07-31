@@ -9,3 +9,9 @@ date,section,flag_name,value,threshold,note
 2026-07-24,SEC6,LABOR_WATCH_SOFT,"MA 207.5k, +11% off low",soft: below 260k floor,hard LABOR SOFTENING not triggered; ICSA fell -22k
 2026-07-27,SEC11,CROWDED_LONG_ZT,"100th pctile, net -1,154,597, w/w +2,880",>90th pctile of trailing 52wk,"UST 2Y NOTE - CBT, as-of Tue 2026-07-21, least-short spec positioning in past year"
 2026-07-27,SEC11,CROWDED_SHORT_ZB,"4th pctile, net -186,790, w/w -7,734",<10th pctile of trailing 52wk,"UST BOND - CBT, as-of Tue 2026-07-21, near most-short spec positioning in past year"
+2026-07-31,SEC1,NET_LIQ_DRAINING,-158732,sign negative (DRAINING),"reserves 1w -77579, TGA 1w +81153, RRP 1w +0.17"
+2026-07-31,SEC4,GOLD_REAL_DIVERGING,gold +0.78% / real +2.0bps,both up,debasement tell
+2026-07-31,SEC4,SPX_HY_DIVERGING,SPX +0.60% / HY +7.0bps,SPX up + spreads up,late-cycle warning
+2026-07-31,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 58.5% (-5.3pt),BtC>0.20 below avg OR indirect>5pt below avg OR positive tail,2026-07-27 auction
+2026-07-31,SEC8,CARRY_UNWIND_IN_PROGRESS,-2.02% 1w,<= -2% w/w,
+2026-07-31,SEC8,YEN_REPATRIATION,USDJPY -2.83% / AUDJPY -2.02%,both falling w/w,
