@@ -15,3 +15,6 @@ date,section,flag_name,value,threshold,note
 2026-07-31,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 58.5% (-5.3pt),BtC>0.20 below avg OR indirect>5pt below avg OR positive tail,2026-07-27 auction
 2026-07-31,SEC8,CARRY_UNWIND_IN_PROGRESS,-2.02% 1w,<= -2% w/w,
 2026-07-31,SEC8,YEN_REPATRIATION,USDJPY -2.83% / AUDJPY -2.02%,both falling w/w,
+2026-07-31,SEC11,CROWDED_LONG_ZT,"100th pctile, net -1,124,574, w/w +30,023",>90th pctile of trailing 52wk,"UST 2Y NOTE - CBT, as-of Tue 2026-07-28, least-short spec positioning in past year"
+2026-07-31,SEC11,CROWDED_SHORT_ZB,"2nd pctile, net -217,497, w/w -30,707",<10th pctile of trailing 52wk,"UST BOND - CBT, as-of Tue 2026-07-28, near most-short spec positioning in past year"
+2026-07-31,SEC11,CROWDED_SHORT_SI,"6th pctile, net 22,217, w/w -1,248",<10th pctile of trailing 52wk,"SILVER - COMEX, as-of Tue 2026-07-28, new flag this week (was 15th pctile on 2026-07-21)"
