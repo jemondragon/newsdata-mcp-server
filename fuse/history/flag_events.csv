@@ -21,3 +21,10 @@ date,section,flag_name,value,threshold,note
 2026-08-03,8,YEN_REPATRIATION,"USDJPY -4.20% w/w, AUDJPY -4.17% w/w",both legs down same week,Highest-severity carry flag; corroborated by news of joint US-Japan FX intervention this week (first since 2011).
 2026-08-03,8,CARRY_UNWIND_IN_PROGRESS,AUDJPY -4.17% w/w,>2% w/w decline,Subsumed under YEN_REPATRIATION per spec (both legs moving together).
 2026-08-03,7,WEAK_AUCTION,5Y indirect % = 53.20% vs trailing-6-avg 58.70% (-5.50pt),>5pt fall vs trailing-6-auction avg,5-Year Note auction 2026-07-27; long-end demand softening leading edge.
+2026-08-04,SEC1,NET_LIQ_DRAINING,-159479,sign negative (DRAINING),"reserves 1w -77579, TGA 1w +81153, RRP 1w +0.747 ($B, ~+747 $M)"
+2026-08-04,SEC4,GOLD_REAL_DIVERGING,gold +2.51% / real +4.0bps,both up,debasement tell; flips from CONFIRMING in prior run
+2026-08-04,SEC4,SPX_HY_DIVERGING,SPX +3.62% / HY +6.0bps,SPX up + spreads up,late-cycle warning
+2026-08-04,SEC7,WEAK_AUCTION_5Y,indirect 53.20% vs avg 59.16% (-5.96pt),>5pt fall vs trailing-6-auction avg,2026-07-27 auction
+2026-08-04,SEC7,WEAK_AUCTION_10Y,indirect 58.29% vs avg 63.62% (-5.33pt),>5pt fall vs trailing-6-auction avg,2026-07-23 auction; BTC 2.30 vs avg 2.497 also below but under 0.20 threshold alone
+2026-08-04,SEC8,CARRY_UNWIND_IN_PROGRESS,AUDJPY -3.17% w/w,>2% w/w decline,Subsumed under YEN_REPATRIATION per spec (both legs moving together)
+2026-08-04,SEC8,YEN_REPATRIATION,"USDJPY -3.78% w/w, AUDJPY -3.17% w/w",both legs down same week,Highest-severity carry flag; second consecutive run firing (also fired 2026-08-03)
