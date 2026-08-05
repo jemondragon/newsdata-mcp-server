@@ -28,3 +28,7 @@ date,section,flag_name,value,threshold,note
 2026-08-04,SEC7,WEAK_AUCTION_10Y,indirect 58.29% vs avg 63.62% (-5.33pt),>5pt fall vs trailing-6-auction avg,2026-07-23 auction; BTC 2.30 vs avg 2.497 also below but under 0.20 threshold alone
 2026-08-04,SEC8,CARRY_UNWIND_IN_PROGRESS,AUDJPY -3.17% w/w,>2% w/w decline,Subsumed under YEN_REPATRIATION per spec (both legs moving together)
 2026-08-04,SEC8,YEN_REPATRIATION,"USDJPY -3.78% w/w, AUDJPY -3.17% w/w",both legs down same week,Highest-severity carry flag; second consecutive run firing (also fired 2026-08-03)
+2026-08-05,SEC7,WEAK_AUCTION_5Y,indirect -5.3pt,>5pt fall vs trailing-6 avg,5Y auction 2026-07-27 indirect 53.2% vs trailing-6 avg 58.5%
+2026-08-05,SEC8,CARRY_UNWIND_IN_PROGRESS,-2.72%,>-2% w/w,AUDJPY 1w move
+2026-08-05,SEC8,YEN_REPATRIATION,USDJPY -6.32 / AUDJPY -3.11,both legs falling w/w,both USDJPY and AUDJPY fell this week — funding currency bought back broadly
+2026-08-05,SEC1,NET_LIQ_DRAINING,-158733,sign(dReserves-dTGA-dRRP),mechanical liquidity direction
