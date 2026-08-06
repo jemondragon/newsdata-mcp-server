@@ -32,3 +32,8 @@ date,section,flag_name,value,threshold,note
 2026-08-05,SEC8,CARRY_UNWIND_IN_PROGRESS,-2.72%,>-2% w/w,AUDJPY 1w move
 2026-08-05,SEC8,YEN_REPATRIATION,USDJPY -6.32 / AUDJPY -3.11,both legs falling w/w,both USDJPY and AUDJPY fell this week — funding currency bought back broadly
 2026-08-05,SEC1,NET_LIQ_DRAINING,-158733,sign(dReserves-dTGA-dRRP),mechanical liquidity direction
+2026-08-06,SEC1,NET_LIQ_DRAINING,-157806,sign(dReserves-dTGA-dRRP),"reserves 1w -77579, TGA 1w +81153, RRP 1w -0.926 ($B, ~-926 $M-equiv)"
+2026-08-06,SEC2,HY_OAS_>10bps_WoW,-12.0bps,>10bps w/w (magnitude),"HY OAS 2.75% (2026-08-05) vs 2.87% (2026-07-29); spread tightening, not widening"
+2026-08-06,SEC7,WEAK_AUCTION_5Y,indirect -5.96pt,>5pt fall vs trailing-6-auction avg,"5Y auction 2026-07-27, indirect 53.20% vs trailing-6 avg 59.16%"
+2026-08-06,SEC7,WEAK_AUCTION_10Y,indirect -5.33pt,>5pt fall vs trailing-6-auction avg,"10Y auction 2026-07-23, indirect 58.29% vs trailing-6 avg 63.62%; BTC 2.30 vs avg 2.497 (-0.20) just under the independent BTC threshold; high_yield for this auction (2.438%) is anomalous vs neighboring tenors, reported as-fetched"
+2026-08-06,SEC8,YEN_REPATRIATION,"USDJPY -1.08%, AUDJPY -0.96%",both legs down same week,"both USDJPY and AUDJPY fell w/w; AUDJPY move is below the independent 2% CARRY_UNWIND_IN_PROGRESS threshold (which did not fire this run), but YEN_REPATRIATION fires on its own falling/falling criteria"
