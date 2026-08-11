@@ -41,3 +41,5 @@ date,section,flag_name,value,threshold,note
 2026-08-07,SEC11,CROWDED_LONG_UST2Y,100,90,"Net non-commercial position -1,004,228 contracts, 100th percentile of trailing 52 weeks, as-of 2026-08-04"
 2026-08-07,SEC11,CROWDED_SHORT_UST10Y,2,10,"Net non-commercial position -979,243 contracts, 2nd percentile of trailing 52 weeks, as-of 2026-08-04; new flag vs 23rd pctile on 2026-07-28"
 2026-08-10,SEC7,WEAK_AUCTION_5Y,indirect -5.50pt,>5pt fall vs trailing-6-auction avg,"5Y auction 2026-07-27, indirect 53.20% vs trailing-6 avg 58.70%; BTC 2.280 vs trailing-6 avg 2.413 (-0.133), within the independent BTC threshold on its own"
+2026-08-11,SEC9,BRENT_>5%_WoW,+11.13%,>5% w/w,Brent 88.19 vs 79.36 on 2026-08-04; Strait of Hormuz blockade/standoff escalation per Section 5 catalysts
+2026-08-11,SEC7,WEAK_AUCTION_5Y,indirect 53.20%,>5pt below 58.47% trailing-6 avg (delta -5.28pp),"2026-07-27 auction; BTC delta only -0.048, condition (a) not met; tail unavailable"
