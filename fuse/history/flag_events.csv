@@ -46,3 +46,5 @@ date,section,flag_name,value,threshold,note
 2026-08-12,SEC9,BRENT_>5%_WoW,+12.07%,>5% w/w,"Brent 89.04 vs 79.45 1w-ago; Strait of Hormuz escalation, Trump 'total control' comments 2026-08-12"
 2026-08-12,SEC7,WEAK_AUCTION_5Y,indirect -5.28pp,">5pp indirect drop vs trail-6 avg (or BTC>0.20 below avg, or positive tail)",5Y indirect 53.20% vs 58.47% trail-6 avg; second consecutive run flagging this same 5Y auction (2026-07-27)
 2026-08-12,SEC8,CARRY_MAX_EXTENDED,1.97% below 52w high,within 2% of trailing-52w high,"AUDJPY 112.642 vs 52w high 114.903; both USDJPY and AUDJPY rose this week — carry re-engagement, not unwind"
+2026-08-13,SEC9,BRENT_>5%_WoW,+5.88%,>5% w/w,Brent 87.34 vs ~82.49 1w-ago (~5 trading days back)
+2026-08-13,SEC7,WEAK_AUCTION_5Y,indirect -6.17pp,">5pp indirect drop vs trail-6 avg (or BTC>0.20 below avg, or positive tail)","5Y auction 2026-07-27, indirect 59.08% vs 65.25% trailing-6 avg; tail unavailable; same auction flagged in prior consecutive runs"
