@@ -48,3 +48,6 @@ date,section,flag_name,value,threshold,note
 2026-08-12,SEC8,CARRY_MAX_EXTENDED,1.97% below 52w high,within 2% of trailing-52w high,"AUDJPY 112.642 vs 52w high 114.903; both USDJPY and AUDJPY rose this week — carry re-engagement, not unwind"
 2026-08-13,SEC9,BRENT_>5%_WoW,+5.88%,>5% w/w,Brent 87.34 vs ~82.49 1w-ago (~5 trading days back)
 2026-08-13,SEC7,WEAK_AUCTION_5Y,indirect -6.17pp,">5pp indirect drop vs trail-6 avg (or BTC>0.20 below avg, or positive tail)","5Y auction 2026-07-27, indirect 59.08% vs 65.25% trailing-6 avg; tail unavailable; same auction flagged in prior consecutive runs"
+2026-08-14,SEC7,WEAK_AUCTION_5Y,"indirect% 53.20%, -5.28pt vs trailing-6 avg",>5pt fall vs trailing-6-auction avg,5Y auction 2026-07-27; trailing-6 avg indirect 58.47%
+2026-08-14,SEC7,WEAK_AUCTION_30Y,"indirect% 53.15%, -6.17pt vs trailing-6 avg",>5pt fall vs trailing-6-auction avg,30Y auction 2026-08-13; trailing-6 avg indirect 59.32%
+2026-08-14,SEC8,CARRY_MAX_EXTENDED,"AUDJPY 112.828, -1.68% from 52w high",within 2% of trailing-52-week high,"52wk high 114.759, range position 90.3%"
