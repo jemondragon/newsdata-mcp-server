@@ -51,3 +51,7 @@ date,section,flag_name,value,threshold,note
 2026-08-14,SEC7,WEAK_AUCTION_5Y,"indirect% 53.20%, -5.28pt vs trailing-6 avg",>5pt fall vs trailing-6-auction avg,5Y auction 2026-07-27; trailing-6 avg indirect 58.47%
 2026-08-14,SEC7,WEAK_AUCTION_30Y,"indirect% 53.15%, -6.17pt vs trailing-6 avg",>5pt fall vs trailing-6-auction avg,30Y auction 2026-08-13; trailing-6 avg indirect 59.32%
 2026-08-14,SEC8,CARRY_MAX_EXTENDED,"AUDJPY 112.828, -1.68% from 52w high",within 2% of trailing-52-week high,"52wk high 114.759, range position 90.3%"
+2026-08-14,SEC11,CROWDED_LONG_ZT,-1021043,90th pctile trailing 52wk (98.1%),"Treasury 2Y (ZT) net non-commercial position, as-of Tue 2026-08-11"
+2026-08-14,SEC11,CROWDED_SHORT_ZN,-915053,10th pctile trailing 52wk (9.6%),"Treasury 10Y (ZN) net non-commercial position, as-of Tue 2026-08-11"
+2026-08-14,SEC11,CROWDED_SHORT_ZB,-179607,10th pctile trailing 52wk (7.7%),"Treasury 30Y (ZB) net non-commercial position, as-of Tue 2026-08-11"
+2026-08-14,SEC11,CROWDED_LONG_DX,21409,90th pctile trailing 52wk (98.1%),"Dollar Index (DX) net non-commercial position, as-of Tue 2026-08-11"
