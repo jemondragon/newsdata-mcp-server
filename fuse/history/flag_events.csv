@@ -57,3 +57,6 @@ date,section,flag_name,value,threshold,note
 2026-08-14,SEC11,CROWDED_LONG_DX,21409,90th pctile trailing 52wk (98.1%),"Dollar Index (DX) net non-commercial position, as-of Tue 2026-08-11"
 2026-08-17,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 58.5% (-5.3pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,5y auction 2026-07-27
 2026-08-17,SEC7,WEAK_AUCTION_30Y,indirect 53.1% vs avg 59.3% (-6.2pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,30y auction 2026-08-13
+2026-08-18,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 58.5% (-5.3pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,5y auction 2026-07-27
+2026-08-18,SEC7,WEAK_AUCTION_30Y,indirect 53.1% vs avg 63.3% (-10.1pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,30y auction 2026-08-13
+2026-08-18,SEC8,CARRY_MAX_EXTENDED,"AUDJPY 113.257, -1.31% from 52w high",within 2% of trailing-52-week high,"52wk high 114.759, range position 92.5%"
