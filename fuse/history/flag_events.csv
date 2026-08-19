@@ -60,3 +60,6 @@ date,section,flag_name,value,threshold,note
 2026-08-18,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 58.5% (-5.3pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,5y auction 2026-07-27
 2026-08-18,SEC7,WEAK_AUCTION_30Y,indirect 53.1% vs avg 63.3% (-10.1pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,30y auction 2026-08-13
 2026-08-18,SEC8,CARRY_MAX_EXTENDED,"AUDJPY 113.257, -1.31% from 52w high",within 2% of trailing-52-week high,"52wk high 114.759, range position 92.5%"
+2026-08-19,SEC4,GOLD_REAL_DIVERGING,gold +3.06% / real +1.0bps,both up,debasement tell
+2026-08-19,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 59.2% (-6.0pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,5y auction 2026-07-27
+2026-08-19,SEC7,WEAK_AUCTION_30Y,indirect 53.1% vs avg 63.3% (-10.1pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,30y auction 2026-08-13
