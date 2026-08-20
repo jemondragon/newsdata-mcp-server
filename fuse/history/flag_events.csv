@@ -63,3 +63,9 @@ date,section,flag_name,value,threshold,note
 2026-08-19,SEC4,GOLD_REAL_DIVERGING,gold +3.06% / real +1.0bps,both up,debasement tell
 2026-08-19,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 59.2% (-6.0pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,5y auction 2026-07-27
 2026-08-19,SEC7,WEAK_AUCTION_30Y,indirect 53.1% vs avg 63.3% (-10.1pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,30y auction 2026-08-13
+2026-08-20,SEC1,NET_LIQ_DRAINING,"-105,508 $mm",sign of (Δres−ΔTGA−ΔRRP) 1w,mechanical net-liquidity sign
+2026-08-20,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs avg 58.5% (-5.3pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,5y auction 2026-07-27
+2026-08-20,SEC7,WEAK_AUCTION_20Y,indirect 55.1% vs avg 61.5% (-6.4pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,20y auction 2026-08-19
+2026-08-20,SEC7,WEAK_AUCTION_30Y,indirect 53.1% vs avg 63.3% (-10.1pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,30y auction 2026-08-13
+2026-08-20,SEC8,CARRY_MAX_EXTENDED,113.063 vs 52wk high 114.759 (91% of range),within 2% of 52wk high,
+2026-08-20,SEC9,BRENT_>5%_WoW,+7.17%,>5% w/w,Brent 93.31
