@@ -69,3 +69,7 @@ date,section,flag_name,value,threshold,note
 2026-08-20,SEC7,WEAK_AUCTION_30Y,indirect 53.1% vs avg 63.3% (-10.1pt),btc>0.20 below avg OR indirect>5pt below avg OR positive tail,30y auction 2026-08-13
 2026-08-20,SEC8,CARRY_MAX_EXTENDED,113.063 vs 52wk high 114.759 (91% of range),within 2% of 52wk high,
 2026-08-20,SEC9,BRENT_>5%_WoW,+7.17%,>5% w/w,Brent 93.31
+2026-08-21,SEC1,NET_LIQ_ADDING,"+1,791 $mm",sign of (Δreserves−ΔTGA−ΔRRP) 1w,"flips from DRAINING direction seen in prior runs (07-24 through 08-20); reserves 1w -8772, TGA 1w -10338, RRP 1w -0.225 ($B, ~-225 $mm-equiv)"
+2026-08-21,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs trail-6 avg 58.5% (-5.3pt),">5pt fall vs trailing-6-auction avg (or BTC>0.20 below avg, or positive tail)","5Y auction 2026-07-27; BTC 2.28 vs avg 2.37 (-0.09), under independent BTC threshold alone; tail unavailable"
+2026-08-21,SEC8,CARRY_MAX_EXTENDED,"AUDJPY 113.930, -0.85% from 52w high",within 2% of trailing-52-week high,"52wk high 114.903, low 95.162, range position 95.1%"
+2026-08-21,SEC9,BRENT_>5%_WoW,+5.84%,>5% w/w,"Brent 93.69 vs 88.54 1w-ago (2026-08-14); Strait of Hormuz transit disruption per Section 5 catalysts (56 title hits/24h, transit reportedly down by half)"
