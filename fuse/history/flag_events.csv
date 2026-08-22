@@ -73,3 +73,7 @@ date,section,flag_name,value,threshold,note
 2026-08-21,SEC7,WEAK_AUCTION_5Y,indirect 53.2% vs trail-6 avg 58.5% (-5.3pt),">5pt fall vs trailing-6-auction avg (or BTC>0.20 below avg, or positive tail)","5Y auction 2026-07-27; BTC 2.28 vs avg 2.37 (-0.09), under independent BTC threshold alone; tail unavailable"
 2026-08-21,SEC8,CARRY_MAX_EXTENDED,"AUDJPY 113.930, -0.85% from 52w high",within 2% of trailing-52-week high,"52wk high 114.903, low 95.162, range position 95.1%"
 2026-08-21,SEC9,BRENT_>5%_WoW,+5.84%,>5% w/w,"Brent 93.69 vs 88.54 1w-ago (2026-08-14); Strait of Hormuz transit disruption per Section 5 catalysts (56 title hits/24h, transit reportedly down by half)"
+2026-08-22,SEC11,CROWDED_LONG_ZT_2Y,99.0,90,"Treasury 2Y (ZT) net spec position -927,337, w/w +93,706, 52wk percentile 99.0, as-of 2026-08-18"
+2026-08-22,SEC11,CROWDED_SHORT_ZN_10Y,2.9,10,"Treasury 10Y (ZN) net spec position -946,961, w/w -31,908, 52wk percentile 2.9, as-of 2026-08-18"
+2026-08-22,SEC11,CROWDED_SHORT_ZB_30Y,1.0,10,"Treasury 30Y (ZB) net spec position -219,012, w/w -39,405, 52wk percentile 1.0, as-of 2026-08-18"
+2026-08-22,SEC11,CROWDED_LONG_DX_DOLLAR,95.2,90,"Dollar Index (DX) net spec position 19,079, w/w -2,330, 52wk percentile 95.2, as-of 2026-08-18"
