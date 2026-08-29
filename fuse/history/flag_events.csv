@@ -89,3 +89,6 @@ date,section,flag_name,value,threshold,note
 2026-08-28,SEC7,WEAK_AUCTION_30Y,indirect 53.15% vs trail-6 avg 59.32% (-6.17pt),">5pt fall vs trailing-6-auction avg (or BTC>0.20 below avg, or positive tail)","30Y auction 2026-08-13; BTC 2.39 vs avg 2.428 (-0.038), under independent BTC threshold alone; tail unavailable"
 2026-08-28,SEC8,CARRY_MAX_EXTENDED,"AUDJPY 114.655, -0.09% from 52w high",within 2% of trailing-52-week high,"52wk high 114.759 (2026-06-02), low 95.884 (2025-08-28, trailing edge of window), range position 99.45%"
 2026-08-28,SEC1,NET_LIQ_DRAINING,-7475.2,sign negative (DRAINING),"reserves 1w -10351, TGA 1w -2876, RRP 1w +0.231"
+2026-08-28,SEC11,CROWDED_LONG_ZT_2Y,100.0,90,"Treasury 2Y (ZT) net spec position -861,296, w/w +66,041, 52wk percentile 100.0, as-of 2026-08-25"
+2026-08-28,SEC11,CROWDED_SHORT_ZB_30Y,7.7,10,"Treasury 30Y (ZB) net spec position -187,243, w/w +31,769, 52wk percentile 7.7, as-of 2026-08-25"
+2026-08-28,SEC11,CROWDED_LONG_DX_DOLLAR,94.2,90,"Dollar Index (DX) net spec position 18,682, w/w -397, 52wk percentile 94.2, as-of 2026-08-25"
