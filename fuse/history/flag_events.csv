@@ -107,3 +107,9 @@ date,section,flag_name,value,threshold,note
 2026-09-02,SEC7,WEAK_AUCTION_30Y,indirect 53.15% vs trailing-6 avg 59.11% (-5.96pt),">5pt fall vs trailing-6-auction avg (or BTC>0.20 below avg, or positive tail)","30Y auction 2026-08-13; BTC 2.39 vs avg 2.383 (+0.007), under independent BTC threshold alone; tail unavailable; unchanged since prior run"
 2026-09-02,SEC1,NET_LIQ_DRAINING,-7795,sign negative (DRAINING),"reserves 1w -10351, TGA 1w -2876, RRP 1w +320 ($mn-equiv, 5bd)"
 2026-09-02,SEC6,LABOR_WATCH_SOFT,"MA 205.5k, +7.41% off 6mo low, rising 3 consecutive weeks",soft: below 260k floor,hard LABOR SOFTENING not triggered; %-off-low 7.41% < 10% threshold
+2026-09-03,8,CARRY_UNWIND_IN_PROGRESS,-2.3660155115866983,-2,AUDJPY fell >2% w/w
+2026-09-03,8,YEN_REPATRIATION,"usdjpy-2.36%,audjpy-2.37%",both<0,Both USDJPY and AUDJPY falling same week
+2026-09-03,6,LABOR_WATCH_SOFT,4.1,10,soft watch tier
+2026-09-03,7,WEAK_AUCTION_20Y,Indirect% 55.1 vs trail-avg 61.5 (>5pt fall),btc>0.20 below avg OR indirect%>5pt fall,20y auction 2026-08-19
+2026-09-03,7,WEAK_AUCTION_30Y,Indirect% 53.1 vs trail-avg 59.3 (>5pt fall),btc>0.20 below avg OR indirect%>5pt fall,30y auction 2026-08-13
+2026-09-03,9,BRENT_>5%_WOW,7.53,5,Brent up >5% w/w
