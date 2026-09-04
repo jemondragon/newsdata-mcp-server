@@ -113,3 +113,6 @@ date,section,flag_name,value,threshold,note
 2026-09-03,7,WEAK_AUCTION_20Y,Indirect% 55.1 vs trail-avg 61.5 (>5pt fall),btc>0.20 below avg OR indirect%>5pt fall,20y auction 2026-08-19
 2026-09-03,7,WEAK_AUCTION_30Y,Indirect% 53.1 vs trail-avg 59.3 (>5pt fall),btc>0.20 below avg OR indirect%>5pt fall,30y auction 2026-08-13
 2026-09-03,9,BRENT_>5%_WOW,7.53,5,Brent up >5% w/w
+2026-09-04,SEC8,YEN_REPATRIATION,"usdjpy-2.08%,audjpy-1.91%",both<0,Both USDJPY and AUDJPY falling same week — coincides with active Strait of Hormuz tanker-attack news flow and BOJ hike-bet headlines
+2026-09-04,SEC9,BRENT_>5%_WOW,+6.67%,>5% w/w,Brent up 6.67% w/w; WTI +8.66%; coincides with oil tanker attack near Strait of Hormuz (Section 5)
+2026-09-04,SEC6,LABOR_WATCH_SOFT,"4.15% off 6mo low, rising 3+ wks",below 260k floor,"ICSA 4wk MA 207,250, still well below 260k hard-flag floor; PAYEMS m/m +162k this month (matches today's NFP headline), SAHM and UNRATE trend criteria not triggered"
