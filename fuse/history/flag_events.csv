@@ -116,3 +116,6 @@ date,section,flag_name,value,threshold,note
 2026-09-04,SEC8,YEN_REPATRIATION,"usdjpy-2.08%,audjpy-1.91%",both<0,Both USDJPY and AUDJPY falling same week — coincides with active Strait of Hormuz tanker-attack news flow and BOJ hike-bet headlines
 2026-09-04,SEC9,BRENT_>5%_WOW,+6.67%,>5% w/w,Brent up 6.67% w/w; WTI +8.66%; coincides with oil tanker attack near Strait of Hormuz (Section 5)
 2026-09-04,SEC6,LABOR_WATCH_SOFT,"4.15% off 6mo low, rising 3+ wks",below 260k floor,"ICSA 4wk MA 207,250, still well below 260k hard-flag floor; PAYEMS m/m +162k this month (matches today's NFP headline), SAHM and UNRATE trend criteria not triggered"
+2026-09-04,SEC11,CROWDED_LONG_ZT,98.1,90,"UST 2Y Note (CBT) net non-comm position -882,518, 98.1 pctile of trailing 52wk reports, as-of 2026-09-01"
+2026-09-04,SEC11,CROWDED_SHORT_ZB,5.8,10,"UST Bond/30Y (CBT) net non-comm position -199,501, 5.8 pctile of trailing 52wk reports, as-of 2026-09-01"
+2026-09-04,SEC11,CROWDED_LONG_DX,90.4,90,"US Dollar Index (ICE) net non-comm position +17,025, 90.4 pctile of trailing 52wk reports, as-of 2026-09-01"
