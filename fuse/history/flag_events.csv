@@ -125,3 +125,9 @@ date,section,flag_name,value,threshold,note
 2026-09-07,SEC9,BRENT_>5%_WOW,+6.40%,>5% w/w,Brent up 6.40% w/w; WTI +6.67%; coincides with Iran declaring a 'prohibited zone' near the Strait of Hormuz (Section 5)
 2026-09-07,SEC8,CARRY_UNWIND_IN_PROGRESS,-2.80%,>2% decline in 1w,AUDJPY fell 2.80% w/w; coincides with hawkish BOJ rate-hike bets and Middle East risk-off flow
 2026-09-07,SEC8,YEN_REPATRIATION,"usdjpy-3.61%,audjpy-2.80%",both<0,Both USDJPY and AUDJPY falling same week — coincides with active Strait of Hormuz escalation news flow and hawkish BOJ rate-hike bets (Section 5)
+2026-09-08,SEC9,BRENT_>5%_WOW,+7.99%,>5% w/w,"Brent 97.72, nearing $100 intraday; Strait of Hormuz escalation (IRGC seizure incident) in Section 5"
+2026-09-08,SEC7,WEAK_AUCTION_20Y,indirect 55.09% vs trail-avg 61.54% (-6.45pt),>5pt fall vs trailing-6 avg,20y auction 2026-08-19; trail-6 recomputed this run to include reopenings and exclude FRN/TIPS mislabels
+2026-09-08,SEC7,WEAK_AUCTION_30Y,indirect 53.15% vs trail-avg 59.32% (-6.17pt),>5pt fall vs trailing-6 avg,30y auction 2026-08-13
+2026-09-08,SEC8,CARRY_UNWIND_IN_PROGRESS,AUDJPY -2.77% 1w,>2% decline in 1w,"AUDJPY 111.366, 80.8% of 52w range"
+2026-09-08,SEC8,YEN_REPATRIATION,"usdjpy-3.50%,audjpy-2.77%",both legs falling same week,highest-severity carry flag; coincides with record yen-intervention headlines and hawkish BOJ hike-to-1.25% chatter
+2026-09-08,SEC6,LABOR_WATCH_SOFT,"4.15% off 6mo low, rising 3+ wks",below 260k floor (soft watch tier),"ICSA 4wk MA 207,250, still below 260k hard-flag floor"
