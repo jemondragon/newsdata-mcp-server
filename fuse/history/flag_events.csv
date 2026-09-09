@@ -136,3 +136,4 @@ date,section,flag_name,value,threshold,note
 2026-09-09,8,CARRY UNWIND IN PROGRESS — risk-off transmission,AUDJPY -3.16% w/w,>2% w/w decline,"AUDJPY 110.875, prior week 114.489"
 2026-09-09,8,YEN REPATRIATION — both legs of carry reversing simultaneously,"USDJPY -4.05% w/w, AUDJPY -3.16% w/w",USDJPY and AUDJPY both falling same week,Highest-severity carry condition; DXY only -0.97% w/w so not broad dollar weakness
 2026-09-09,9,Brent >5% w/w,Brent +6.83% w/w (101.11),>5% w/w up,Coincides with Strait of Hormuz / Iran maritime-conflict news flow (Section 5)
+2026-09-09,1,DATA_CORRECTION - net_liquidity_1w unit bug,"published net_liquidity_1w=-47597.9 mixed $mm (WRESBAL/WTREGEN) with $bn (RRPONTSYD) without conversion","correct value = -41.504 ($bn: ΔReserves -30.405 - ΔTGA 17.199 - ΔRRP -6.1)","DRAINING sign/verdict unaffected by the bug; only the printed magnitude was wrong. Flagged same-day by the FUSE pipeline itself."
