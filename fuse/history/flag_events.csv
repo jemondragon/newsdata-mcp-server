@@ -131,3 +131,8 @@ date,section,flag_name,value,threshold,note
 2026-09-08,SEC8,CARRY_UNWIND_IN_PROGRESS,AUDJPY -2.77% 1w,>2% decline in 1w,"AUDJPY 111.366, 80.8% of 52w range"
 2026-09-08,SEC8,YEN_REPATRIATION,"usdjpy-3.50%,audjpy-2.77%",both legs falling same week,highest-severity carry flag; coincides with record yen-intervention headlines and hawkish BOJ hike-to-1.25% chatter
 2026-09-08,SEC6,LABOR_WATCH_SOFT,"4.15% off 6mo low, rising 3+ wks",below 260k floor (soft watch tier),"ICSA 4wk MA 207,250, still below 260k hard-flag floor"
+2026-09-09,7,WEAK AUCTION — long-end demand softening,20y indirect% 55.09% (6-avg 61.54%),indirect% falling >5pts vs trailing-6 avg,-6.45pts vs trailing-6-auction avg
+2026-09-09,7,WEAK AUCTION — long-end demand softening,30y indirect% 53.15% (6-avg 59.32%),indirect% falling >5pts vs trailing-6 avg,-6.17pts vs trailing-6-auction avg
+2026-09-09,8,CARRY UNWIND IN PROGRESS — risk-off transmission,AUDJPY -3.16% w/w,>2% w/w decline,"AUDJPY 110.875, prior week 114.489"
+2026-09-09,8,YEN REPATRIATION — both legs of carry reversing simultaneously,"USDJPY -4.05% w/w, AUDJPY -3.16% w/w",USDJPY and AUDJPY both falling same week,Highest-severity carry condition; DXY only -0.97% w/w so not broad dollar weakness
+2026-09-09,9,Brent >5% w/w,Brent +6.83% w/w (101.11),>5% w/w up,Coincides with Strait of Hormuz / Iran maritime-conflict news flow (Section 5)
