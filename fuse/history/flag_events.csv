@@ -137,3 +137,6 @@ date,section,flag_name,value,threshold,note
 2026-09-09,8,YEN REPATRIATION — both legs of carry reversing simultaneously,"USDJPY -4.05% w/w, AUDJPY -3.16% w/w",USDJPY and AUDJPY both falling same week,Highest-severity carry condition; DXY only -0.97% w/w so not broad dollar weakness
 2026-09-09,9,Brent >5% w/w,Brent +6.83% w/w (101.11),>5% w/w up,Coincides with Strait of Hormuz / Iran maritime-conflict news flow (Section 5)
 2026-09-09,1,DATA_CORRECTION - net_liquidity_1w unit bug,"published net_liquidity_1w=-47597.9 mixed $mm (WRESBAL/WTREGEN) with $bn (RRPONTSYD) without conversion","correct value = -41.504 ($bn: ΔReserves -30.405 - ΔTGA 17.199 - ΔRRP -6.1)","DRAINING sign/verdict unaffected by the bug; only the printed magnitude was wrong. Flagged same-day by the FUSE pipeline itself."
+2026-09-10,8,YEN_REPATRIATION,"USDJPY -3.16% w/w, AUDJPY -3.04% w/w",both legs down same week,highest-severity carry condition; both legs of carry reversing simultaneously
+2026-09-10,8,CARRY_UNWIND_IN_PROGRESS,AUDJPY -3.04% w/w,>2% w/w decline,risk-off transmission via carry unwind
+2026-09-10,9,OIL_PRICE_SURGE_BRENT,Brent +10.12% w/w,>5% w/w,driven by Strait of Hormuz / Iran-US conflict per Section 5 news (109 title matches in 24h)
