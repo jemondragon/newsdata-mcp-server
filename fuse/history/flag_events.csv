@@ -140,3 +140,6 @@ date,section,flag_name,value,threshold,note
 2026-09-10,8,YEN_REPATRIATION,"USDJPY -3.16% w/w, AUDJPY -3.04% w/w",both legs down same week,highest-severity carry condition; both legs of carry reversing simultaneously
 2026-09-10,8,CARRY_UNWIND_IN_PROGRESS,AUDJPY -3.04% w/w,>2% w/w decline,risk-off transmission via carry unwind
 2026-09-10,9,OIL_PRICE_SURGE_BRENT,Brent +10.12% w/w,>5% w/w,driven by Strait of Hormuz / Iran-US conflict per Section 5 news (109 title matches in 24h)
+2026-09-11,SEC7,WEAK_AUCTION_20Y,indirect 55.09%,>5pts below trailing-6 avg (61.54%),"diff -6.45pts; auction 2026-08-19, CUSIP 912810UX4, BTC 2.53 vs avg 2.62 (not flagged on its own)"
+2026-09-11,SEC8,YEN_REPATRIATION,"USDJPY -1.34% w/w, AUDJPY -1.75% w/w",both legs falling same week,"USDJPY 153.572, AUDJPY 110.129; distinct from ordinary dollar weakness since both legs fell"
+2026-09-11,SEC9,BRENT_>5%_WoW,+9.73%,>5% w/w,Brent 104.81 from 95.52 1w ago; Section 5 news shows Strait of Hormuz / Iran-war headlines same day
