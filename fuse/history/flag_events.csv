@@ -143,3 +143,5 @@ date,section,flag_name,value,threshold,note
 2026-09-11,SEC7,WEAK_AUCTION_20Y,indirect 55.09%,>5pts below trailing-6 avg (61.54%),"diff -6.45pts; auction 2026-08-19, CUSIP 912810UX4, BTC 2.53 vs avg 2.62 (not flagged on its own)"
 2026-09-11,SEC8,YEN_REPATRIATION,"USDJPY -1.34% w/w, AUDJPY -1.75% w/w",both legs falling same week,"USDJPY 153.572, AUDJPY 110.129; distinct from ordinary dollar weakness since both legs fell"
 2026-09-11,SEC9,BRENT_>5%_WoW,+9.73%,>5% w/w,Brent 104.81 from 95.52 1w ago; Section 5 news shows Strait of Hormuz / Iran-war headlines same day
+2026-09-11,SEC11,CROWDED_LONG_ZT,94.2,90,"Treasury 2Y (UST 2Y NOTE - CBT) spec net non-comm position at 94.2 pctile of trailing 52wk (as-of 2026-09-08); net level -929107 contracts (net short in absolute terms, least-short extreme of its own year)"
+2026-09-11,SEC11,CROWDED_SHORT_ZB,5.8,10,Treasury 30Y (UST BOND - CBT) spec net non-comm position at 5.8 pctile of trailing 52wk (as-of 2026-09-08); net level -200517 contracts (most-short extreme of its own year)
