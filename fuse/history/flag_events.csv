@@ -145,3 +145,5 @@ date,section,flag_name,value,threshold,note
 2026-09-11,SEC9,BRENT_>5%_WoW,+9.73%,>5% w/w,Brent 104.81 from 95.52 1w ago; Section 5 news shows Strait of Hormuz / Iran-war headlines same day
 2026-09-11,SEC11,CROWDED_LONG_ZT,94.2,90,"Treasury 2Y (UST 2Y NOTE - CBT) spec net non-comm position at 94.2 pctile of trailing 52wk (as-of 2026-09-08); net level -929107 contracts (net short in absolute terms, least-short extreme of its own year)"
 2026-09-11,SEC11,CROWDED_SHORT_ZB,5.8,10,Treasury 30Y (UST BOND - CBT) spec net non-comm position at 5.8 pctile of trailing 52wk (as-of 2026-09-08); net level -200517 contracts (most-short extreme of its own year)
+2026-09-14,SEC7,WEAK_AUCTION_20Y,indirect 55.09% vs trailing-6 avg 61.54%,indirect >5pts below trailing-6 avg,20-Year auction 2026-08-19; indirect 6.45pts below avg. Same evaluated auction as prior run (no new 20Y auction completed since).
+2026-09-14,SEC9,BRENT_>5%_WoW,+12.56%,>5% w/w,Brent $108.37 vs $96.28 1w ago; Strait of Hormuz / Iran escalation in Section 5 news flow.
