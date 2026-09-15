@@ -147,3 +147,5 @@ date,section,flag_name,value,threshold,note
 2026-09-11,SEC11,CROWDED_SHORT_ZB,5.8,10,Treasury 30Y (UST BOND - CBT) spec net non-comm position at 5.8 pctile of trailing 52wk (as-of 2026-09-08); net level -200517 contracts (most-short extreme of its own year)
 2026-09-14,SEC7,WEAK_AUCTION_20Y,indirect 55.09% vs trailing-6 avg 61.54%,indirect >5pts below trailing-6 avg,20-Year auction 2026-08-19; indirect 6.45pts below avg. Same evaluated auction as prior run (no new 20Y auction completed since).
 2026-09-14,SEC9,BRENT_>5%_WoW,+12.56%,>5% w/w,Brent $108.37 vs $96.28 1w ago; Strait of Hormuz / Iran escalation in Section 5 news flow.
+2026-09-15,SEC7,WEAK_AUCTION_20Y,indirect 55.09% vs trailing-6 avg 61.54%,>5pts below avg,"20-Year auction 2026-08-19; no new 20Y auction has completed since (today's 2026-09-15 20Y is pending); mechanically still flagged, unchanged event"
+2026-09-15,SEC9,BRENT_>5%_WoW,+5.47%,>5% w/w,Brent $103.28 vs $97.92 on 2026-09-08; sharp pullback from yesterday's $108.37 close but w/w comparator still clears threshold; Strait of Hormuz/Iran escalation in Section 5 news flow
