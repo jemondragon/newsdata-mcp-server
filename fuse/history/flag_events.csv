@@ -150,3 +150,4 @@ date,section,flag_name,value,threshold,note
 2026-09-15,SEC7,WEAK_AUCTION_20Y,indirect 55.09% vs trailing-6 avg 61.54%,>5pts below avg,"20-Year auction 2026-08-19; no new 20Y auction has completed since (today's 2026-09-15 20Y is pending); mechanically still flagged, unchanged event"
 2026-09-15,SEC9,BRENT_>5%_WoW,+5.47%,>5% w/w,Brent $103.28 vs $97.92 on 2026-09-08; sharp pullback from yesterday's $108.37 close but w/w comparator still clears threshold; Strait of Hormuz/Iran escalation in Section 5 news flow
 2026-09-16,SEC7,WEAK_AUCTION_20Y,"indirect 52.1%, BtC 2.57",>5pts below trailing-6 avg indirect% (62.5%),"20Y auction 2026-09-15, CUSIP 912810UX4, high yield 5.420%, indirect -10.4pts vs trailing-6 avg; corroborated by Seeking Alpha headline on plunging foreign demand"
+2026-09-17,SEC7,WEAK_AUCTION_20Y,indirect 52.12%,>5pt below trailing-6 avg 62.54%,"09-15 20yr reopening 912810UX4; indirect 10.42pt below avg, BTC 2.57 vs avg 2.65 (not flagged)"
