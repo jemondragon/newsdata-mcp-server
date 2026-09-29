@@ -168,3 +168,7 @@ date,section,flag_name,value,threshold,note
 2026-09-28,7,WEAK_AUCTION_5Y,indirect -10.70pts vs trailing-6 avg,>5pts below avg,"auction 2026-09-23, CUSIP 91282CRN3, indirect 46.98% vs avg 57.68%; same evaluated auction as prior 2 runs"
 2026-09-28,7,WEAK_AUCTION_20Y,indirect -10.42pts vs trailing-6 avg,>5pts below avg,"auction 2026-09-15, CUSIP 912810UX4, indirect 52.12% vs avg 62.54%; same evaluated auction as prior 2 runs"
 2026-09-28,9,BRENT_DATA_QUALITY_INCONCLUSIVE,1w chg computed as +0.00% (100.34 on both 2026-09-21 and 2026-09-28),>5% w/w UP (cannot be verified),"Brent (BZ=F) 2026-09-28 close byte-identical to 2026-09-21 close while WTI/NatGas/Copper/Wheat/Silver/Gold all show independently fresh values; likely a stale/cached quote from the feed, not substituted. Hard-flag test result: INCONCLUSIVE, not 'no flag'."
+2026-09-29,2,HY_OAS_>10bps_WoW,36.0,10,HY 3.02 vs 2.66 (09-21)
+2026-09-29,2,IG_OAS_>5bps_WoW,6.0,5,IG 0.83 vs 0.77 (09-21)
+2026-09-29,7,WEAK_AUCTION_5Y,-10.70pts indirect,5pts,auction 2026-09-23 CUSIP 91282CRN3; same evaluated auction as prior runs
+2026-09-29,7,WEAK_AUCTION_20Y,-10.42pts indirect,5pts,auction 2026-09-15 CUSIP 912810UX4; same evaluated auction as prior runs
