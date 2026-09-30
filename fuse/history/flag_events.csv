@@ -172,3 +172,9 @@ date,section,flag_name,value,threshold,note
 2026-09-29,2,IG_OAS_>5bps_WoW,6.0,5,IG 0.83 vs 0.77 (09-21)
 2026-09-29,7,WEAK_AUCTION_5Y,-10.70pts indirect,5pts,auction 2026-09-23 CUSIP 91282CRN3; same evaluated auction as prior runs
 2026-09-29,7,WEAK_AUCTION_20Y,-10.42pts indirect,5pts,auction 2026-09-15 CUSIP 912810UX4; same evaluated auction as prior runs
+2026-09-30,2,HY_OAS_>10bps_WoW,+40.0bps,>10bps,3.08 (2026-09-29) vs 2.68 (2026-09-22)
+2026-09-30,2,IG_OAS_>5bps_WoW,+7.0bps,>5bps,0.84 (2026-09-29) vs 0.77 (2026-09-22)
+2026-09-30,7,WEAK_AUCTION_5Y,indirect -10.70pts,>5pts below T6 avg,2026-09-23 91282CRN3 ind 46.98 vs 57.68
+2026-09-30,7,WEAK_AUCTION_20Y,indirect -10.42pts,>5pts below T6 avg,2026-09-15 912810UX4 ind 52.12 vs 62.54
+2026-09-30,1,NET_LIQ_DRAINING,-194650,sign,"dRes -83601, dTGA +100056, dRRP +10993 ($M)"
+2026-09-30,4/8/9/10,YAHOO_DATA_MISSING,HTTP 429,n/a,"Sections 4,9,10 and Sec 8 proxies/FX untested"
