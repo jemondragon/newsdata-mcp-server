@@ -182,3 +182,8 @@ date,section,flag_name,value,threshold,note
 2026-10-01,2,IG_OAS_>5bps_WoW,7,5,IG OAS 0.84 as-of 2026-09-30
 2026-10-01,7,WEAK_AUCTION_5Y,-10.7,-5,indirect 46.98 vs trailing-6 avg 57.68; BTC -0.117; tail unavailable
 2026-10-01,7,WEAK_AUCTION_20Y,-10.42,-5,indirect 52.12 vs trailing-6 avg 62.54; BTC -0.082; tail unavailable
+2026-10-02,Section 2,HY_OAS_>10bps_WoW,+44bps (3.24%),>10bps,97.6 pctile 252d
+2026-10-02,Section 2,IG_OAS_>5bps_WoW,+7bps (0.86%),>5bps,
+2026-10-02,Section 7,WEAK_AUCTION_5Y,indirect -10.7pts vs trailing-6 (47.0 vs 57.7),indirect >5pts below; btc -0.117 not fired,auction 2026-09-23; tail unavailable
+2026-10-02,Section 7,WEAK_AUCTION_20Y,indirect -10.4pts vs trailing-6 (52.1 vs 62.5),indirect >5pts below; btc -0.082 not fired,auction 2026-09-15; tail unavailable
+2026-10-02,Section 8,YEN_REPATRIATION,USDJPY -0.68% 1w; AUDJPY -1.32% 1w,both falling same week,AUDJPY below -2% unwind threshold; not fired
