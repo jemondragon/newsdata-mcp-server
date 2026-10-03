@@ -187,3 +187,5 @@ date,section,flag_name,value,threshold,note
 2026-10-02,Section 7,WEAK_AUCTION_5Y,indirect -10.7pts vs trailing-6 (47.0 vs 57.7),indirect >5pts below; btc -0.117 not fired,auction 2026-09-23; tail unavailable
 2026-10-02,Section 7,WEAK_AUCTION_20Y,indirect -10.4pts vs trailing-6 (52.1 vs 62.5),indirect >5pts below; btc -0.082 not fired,auction 2026-09-15; tail unavailable
 2026-10-02,Section 8,YEN_REPATRIATION,USDJPY -0.68% 1w; AUDJPY -1.32% 1w,both falling same week,AUDJPY below -2% unwind threshold; not fired
+2026-10-02,SEC11,CROWDED_LONG_ZT,100.0,>90,"net -792,024; as-of 2026-09-29"
+2026-10-02,SEC11,CROWDED_SHORT_SI,3.8,<10,"net +22,083; as-of 2026-09-29"
