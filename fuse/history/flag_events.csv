@@ -192,3 +192,5 @@ date,section,flag_name,value,threshold,note
 2026-10-05,2,HY_OAS_>10bps_WoW,17.0bps,10bps,3.10% as-of 2026-10-02
 2026-10-05,7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.117
 2026-10-05,7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.082
+2026-10-06,7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.117
+2026-10-06,7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.082
