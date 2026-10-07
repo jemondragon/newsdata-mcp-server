@@ -194,5 +194,5 @@ date,section,flag_name,value,threshold,note
 2026-10-05,7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.082
 2026-10-06,7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.117
 2026-10-06,7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.082
-2026-10-07,7,WEAK_AUCTION_5Y,-10.7,-5,indirect % vs trailing-6 avg (47.0 vs 57.68)
-2026-10-07,7,WEAK_AUCTION_20Y,-10.42,-5,indirect % vs trailing-6 avg (52.1 vs 62.54)
+2026-10-07,7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.117
+2026-10-07,7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.082

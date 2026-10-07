@@ -12,6 +12,17 @@ remote (GitHub), not the ephemeral container disk (in this environment `$HOME`,
 - `fuse/history/flag_events.csv` — one row per hard-flag firing (date,section,flag_name,value,threshold,note)
 - `fuse/bin/fuse_persist.py` — the persistence helper (below)
 
+## Units (frozen — a unit change is a schema break)
+- Yields, OAS, real yield, term premium: percent (e.g. 3.03, 5.31)
+- slope_2s10s, slope_5s30s: PERCENTAGE POINTS, 2 decimals (47bp -> 0.47). NOT basis points.
+- hy_oas_1w_bps, carry_diff_bp: basis points
+- *_1w_pct: percent change
+- Missing value: empty field (never 0, never "MISSING")
+- flag_events: value and threshold are short human strings in the house style,
+  e.g. `WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.117`
+- Correction log: 2026-10-07 row had slopes written in bp (47/60) and flag rows in a
+  different style; corrected in place by explicit owner instruction.
+
 ## How each run persists (scheduled runs included)
 After producing the digest, the run:
 1. Writes the digest markdown to a local file.
