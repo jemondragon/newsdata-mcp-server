@@ -212,3 +212,6 @@ date,section,flag_name,value,threshold,note
 2026-10-14,9,BRENT_5PCT,+5.51% w/w,5%,"BZ=F 105.72 vs 100.20 on 10-07 (Yahoo futures, 10-14 intraday)"
 2026-10-14,7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.117; carried (still latest completed 5Y)
 2026-10-14,7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.082; carried (still latest completed 20Y)
+2026-10-15,S2,HY_OAS_10BP,+16bp w/w,10bp,BAMLH0A0HYM2 3.25 (10-14) vs 3.09 (10-07)
+2026-10-15,S7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.117; carried (still latest completed 5Y)
+2026-10-15,S7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.082; carried (still latest completed 20Y)
