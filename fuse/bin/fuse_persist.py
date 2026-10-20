@@ -22,6 +22,10 @@ COLS=["date","run_time_pt","hy_oas","hy_oas_pctile","hy_oas_1w_bps","ig_oas","ig
 "term_premium","slope_2s10s","slope_5s30s","gold","gold_1w_pct","gold_vs_real_label","dxy","spx",
 "spx_1w_pct","brent","wti","wheat","silver","gold_silver_ratio","vix","move","hyg","lqd","usdjpy",
 "audjpy","audjpy_pct_of_range","carry_diff_bp","icsa_4wk_ma","sahm","unrate","flags_fired"]
+# Section 12 (CryptoQuant) lives in its OWN append-only file so the locked COLS header never changes.
+CQ_COLS=["date","run_time_pt","cq_stablecoin_supply_bn","cq_stablecoin_supply_1w_pct",
+"cq_stablecoin_exch_reserve","cq_btc_funding_7d","cq_btc_funding_pctile","cq_btc_oi","cq_btc_oi_1w_pct",
+"cq_lev_ratio","cq_lev_ratio_pctile","cq_cb_premium_7d","cq_btc_netflow_7d","cq_btc_price","cq_btc_price_1w_pct"]
 
 def die(msg):
     print(f"PERSIST FAIL — {msg}", file=sys.stderr); sys.exit(1)
@@ -67,6 +71,20 @@ def main():
         row=[str(rec.get(c,"")) for c in COLS]
         buf=io.StringIO(); csv.writer(buf).writerow(row)
         with open(ts,"a",newline="") as f: f.write(buf.getvalue())
+
+    # 2b) crypto time-series row (daily only, only if any cq_* field present) — separate file, append-only
+    if kind=="daily" and any(str(rec.get(c,"")).strip() for c in CQ_COLS[2:]):
+        cq=os.path.join(WT,"fuse","history","crypto_timeseries.csv")
+        if os.path.exists(cq):
+            with open(cq) as f: h=f.readline().strip()
+            if h.split(",")!=CQ_COLS: die("crypto_timeseries header drift — column order must not change")
+            new=False
+        else:
+            new=True
+        buf=io.StringIO(); w=csv.writer(buf)
+        if new: w.writerow(CQ_COLS)
+        w.writerow([str(rec.get(c,"")) for c in CQ_COLS])
+        with open(cq,"a",newline="") as f: f.write(buf.getvalue())
 
     # 3) flag events — append one row per firing
     events=rec.get("flag_events",[])

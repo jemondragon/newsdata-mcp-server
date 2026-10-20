@@ -9,6 +9,7 @@ remote (GitHub), not the ephemeral container disk (in this environment `$HOME`,
 - `fuse/digests/YYYY-MM-DD_HHMM_PT.md` — full daily digest, one file per run (audit trail)
 - `fuse/digests/cot/YYYY-MM-DD.md` — weekly COT tier
 - `fuse/history/fuse_timeseries.csv` — one row per daily run; column order FROZEN (extend only by appending new columns at the end)
+- `fuse/history/crypto_timeseries.csv` — Section 12 (CryptoQuant) row per daily run, written by fuse_persist.py when any cq_* field is present; column order FROZEN. Rows 2026-10-15..10-20 backfilled from archived digests (no BTC price before 2026-10-21). Units: supply/reserve $bn, OI $bn, pct fields in %, netflow BTC, price USD.
 - `fuse/history/flag_events.csv` — one row per hard-flag firing (date,section,flag_name,value,threshold,note)
 - `fuse/bin/fuse_persist.py` — the persistence helper (below)
 
