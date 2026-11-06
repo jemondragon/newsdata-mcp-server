@@ -260,3 +260,7 @@ date,section,flag_name,value,threshold,note
 2026-11-05,SEC2,HY_OAS_1W,+18bp w/w,10bp,HY 3.32 (2026-11-04) vs 3.14 (2026-10-28)
 2026-11-05,SEC7,WEAK_AUCTION_5Y,indirect -10.70pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.68; BTC -0.117; tail unavailable; unchanged from prior runs
 2026-11-05,SEC7,WEAK_AUCTION_20Y,indirect -10.42pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.54; BTC -0.082; tail unavailable; unchanged from prior runs
+2026-11-06,SEC2,HY_OAS_1W,+22bp w/w,10bp,HY 3.48 (2026-11-05) vs 3.26 (2026-10-29)
+2026-11-06,SEC10,VIX_GT20,24.10,20,Yahoo ^VIX 2026-11-06 intraday; FRED VIXCLS 11-05 28.18
+2026-11-06,SEC7,WEAK_AUCTION_5Y,indirect -10.70pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.68; BTC -0.117; tail unavailable; unchanged from prior runs
+2026-11-06,SEC7,WEAK_AUCTION_20Y,indirect -10.42pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.54; BTC -0.082; tail unavailable; unchanged from prior runs
