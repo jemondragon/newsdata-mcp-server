@@ -266,3 +266,8 @@ date,section,flag_name,value,threshold,note
 2026-11-06,SEC7,WEAK_AUCTION_20Y,indirect -10.42pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.54; BTC -0.082; tail unavailable; unchanged from prior runs
 2026-11-06,SEC11,CROWDED_SHORT_ZN,7.7,10,"ZN net -962359, 52wk pctile 7.7, as-of 2026-11-03"
 2026-11-06,SEC11,CROWDED_SHORT_SI,3.8,10,"SI net +21251, 52wk pctile 3.8, as-of 2026-11-03"
+2026-11-09,SEC7,WEAK_AUCTION_5Y,indirect -10.70pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.68; BTC -0.117; tail unavailable; unchanged from prior runs
+2026-11-09,SEC7,WEAK_AUCTION_20Y,indirect -10.42pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.54; BTC -0.082; tail unavailable; unchanged from prior runs
+2026-11-09,SEC10,VIX_GT20,20.81,20,Yahoo ^VIX 2026-11-09 intraday; prior close 25.64; FRED VIXCLS 11-05 28.18
+2026-11-09,SEC12,STABLECOIN_SUPPLY_CONTRACTING,-3.83% 1w,-1.0%,total supply $135.46bn as-of 2026-11-08
+2026-11-09,SEC12,CROWDED_CRYPTO_LEVERAGE,funding 7d avg pctile 96.1,90th pctile,7d avg 0.008697; lev ratio 0.2492 pctile 87.4 (not >90)
