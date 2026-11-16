@@ -289,3 +289,9 @@ date,section,flag_name,value,threshold,note
 2026-11-13,SEC12,CROWDED_CRYPTO_LEVERAGE,lev ratio pctile 98.4; funding 7d pctile 97.5,90th pctile,lev ratio 0.2717 (11-13); funding 7d avg 0.009394
 2026-11-13,SEC11,CROWDED_SHORT_ZN,7.7,10,net -962359; STALE as-of 2026-11-03 (2026-11-10 report not yet published)
 2026-11-13,SEC11,CROWDED_SHORT_SI,3.8,10,net +21251; STALE as-of 2026-11-03 (2026-11-10 report not yet published)
+2026-11-16,SEC7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC 2.21 vs 2.33 (-0.12); latest completed 5Y
+2026-11-16,SEC7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC 2.57 vs 2.65 (-0.08); latest completed 20Y; 10-21 20Y results pending
+2026-11-16,SEC10,VIX_GT20,20.93,20,Yahoo ^VIX 2026-11-16 intraday 16:26 UTC; 1w +5.07% vs 11-09
+2026-11-16,SEC12,STABLECOIN_SUPPLY_CONTRACTING,supply 1w -1.36%,-1.0%,133.61bn on 11-15 vs 11-08; ~1m -5.51%
+2026-11-16,SEC12,CROWDED_CRYPTO_LEVERAGE,funding 7d pctile 96.7; lev ratio pctile 87.9,90th pctile,funding 7d avg 0.009169 (11-15); lev ratio 0.2498 (11-16) did not fire
+2026-11-16,SEC12,CRYPTO_DELEVERAGING,OI 1w -15.33%,-10%,OI 21.13bn on 11-15 vs 24.95bn on 11-08
