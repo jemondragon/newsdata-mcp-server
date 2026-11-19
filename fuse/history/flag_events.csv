@@ -306,3 +306,9 @@ date,section,flag_name,value,threshold,note
 2026-11-18,SEC7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.08; 10-21 reopening results pending
 2026-11-18,SEC10,VIX_GT20,25.17,20,Yahoo ^VIX 2026-11-18 intraday 16:27 UTC; 1w +43.91% vs 11-11
 2026-11-18,SEC12,CRYPTO_DELEVERAGING,OI 1w -18.67%,-10%,OI 20.63bn on 11-17 vs 25.37bn on 11-10
+2026-11-19,SEC2,HY_OAS_1W,+17bp w/w,10bp,HY 3.47 (2026-11-18) vs 3.30 (2026-11-11)
+2026-11-19,SEC7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.12; feed newest 2026-10-22
+2026-11-19,SEC7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.08; 10-21 reopening results pending
+2026-11-19,SEC8,CARRY_UNWIND,AUDJPY 1w -2.23%,-2%,Yahoo AUDJPY=X 106.859 (11-19 intraday) vs 109.294 (11-12); USDJPY +0.12% w/w
+2026-11-19,SEC10,VIX_GT20,25.26,20,Yahoo ^VIX 2026-11-19 intraday 16:26 UTC; 1w +35.08% vs 11-12
+2026-11-19,SEC12,CRYPTO_DELEVERAGING,OI 1w -15.39%,-10%,OI 20.87bn on 11-18 vs 24.66bn on 11-11
