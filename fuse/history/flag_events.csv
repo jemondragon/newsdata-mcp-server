@@ -312,3 +312,10 @@ date,section,flag_name,value,threshold,note
 2026-11-19,SEC8,CARRY_UNWIND,AUDJPY 1w -2.23%,-2%,Yahoo AUDJPY=X 106.859 (11-19 intraday) vs 109.294 (11-12); USDJPY +0.12% w/w
 2026-11-19,SEC10,VIX_GT20,25.26,20,Yahoo ^VIX 2026-11-19 intraday 16:26 UTC; 1w +35.08% vs 11-12
 2026-11-19,SEC12,CRYPTO_DELEVERAGING,OI 1w -15.39%,-10%,OI 20.87bn on 11-18 vs 24.66bn on 11-11
+2026-11-20,SEC2,HY_OAS_1W,+32bp w/w,10bp,HY 3.52 (2026-11-19) vs 3.20 (2026-11-12); IG +5bp (not >5)
+2026-11-20,SEC7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.12; feed newest 2026-10-22
+2026-11-20,SEC7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.08; 10-21 reopening results pending
+2026-11-20,SEC8,CARRY_UNWIND,AUDJPY 1w -3.13%,-2%,Yahoo AUDJPY=X 105.414 (11-20 intraday) vs 108.821 (11-13); USDJPY -0.72% w/w (below 1.0% repatriation floor)
+2026-11-20,SEC10,VIX_GT20,30.30,20,Yahoo ^VIX 2026-11-20 intraday 16:26 UTC; 1w +56.99% vs 11-13
+2026-11-20,SEC12,CRYPTO_DELEVERAGING,OI 1w -19.61%,-10%,OI 20.44bn on 11-19 vs 25.43bn on 11-12
+2026-11-20,SEC12,CROWDED_CRYPTO_LEVERAGE,lev ratio pctile 92.6,90th pctile,est. leverage ratio 0.2541 (11-20 partial); funding 7d pctile 70.2
