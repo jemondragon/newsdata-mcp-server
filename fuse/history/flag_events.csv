@@ -319,3 +319,5 @@ date,section,flag_name,value,threshold,note
 2026-11-20,SEC10,VIX_GT20,30.30,20,Yahoo ^VIX 2026-11-20 intraday 16:26 UTC; 1w +56.99% vs 11-13
 2026-11-20,SEC12,CRYPTO_DELEVERAGING,OI 1w -19.61%,-10%,OI 20.44bn on 11-19 vs 25.43bn on 11-12
 2026-11-20,SEC12,CROWDED_CRYPTO_LEVERAGE,lev ratio pctile 92.6,90th pctile,est. leverage ratio 0.2541 (11-20 partial); funding 7d pctile 70.2
+2026-11-20,SEC11,CROWDED_SHORT_ZN,0.0,10,"UST 10Y net spec -1048899 contracts, w/w -64983, 52wk pctile 0.0, as-of 2026-11-17"
+2026-11-20,SEC11,CROWDED_SHORT_SI,0.0,10,"SILVER net spec +18291 contracts, w/w -1073, 52wk pctile 0.0, as-of 2026-11-17"
