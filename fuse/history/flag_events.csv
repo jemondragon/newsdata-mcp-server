@@ -334,3 +334,10 @@ date,section,flag_name,value,threshold,note
 2026-11-24,SEC7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.08; 10-21 reopening results pending
 2026-11-24,SEC10,VIX_GT20,28.06,20,Yahoo ^VIX 2026-11-24 intraday 16:26 UTC; 1w +10.21% vs 11-17
 2026-11-24,SEC12,STABLECOIN_SUPPLY_CONTRACTING,supply 1w -2.98%,-1.0%,129.58bn on 11-23 vs 11-16; ~1m -8.12%
+2026-11-25,SEC2,HY_OAS_1W,+29bp w/w,10bp,HY 3.72 (2026-11-24) vs 3.43 (2026-11-17)
+2026-11-25,SEC2,IG_OAS_1W,+6bp w/w,5bp,IG 0.98 (2026-11-24) vs 0.92 (2026-11-17)
+2026-11-25,SEC7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.12; feed newest 2026-10-22
+2026-11-25,SEC7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.08; 10-21 reopening results pending
+2026-11-25,SEC8,CARRY_UNWIND,AUDJPY 1w -2.68%,-2%,Yahoo AUDJPY=X 104.620 (11-25 intraday) vs 107.496 (11-18); USDJPY -0.41% w/w (below 1.0% repatriation floor)
+2026-11-25,SEC10,VIX_GT20,32.88,20,Yahoo ^VIX 2026-11-25 intraday 16:26 UTC; 1w +33.88% vs 11-18
+2026-11-25,SEC12,STABLECOIN_SUPPLY_CONTRACTING,supply 1w -3.21%,-1.0%,129.46bn on 11-24 vs 11-17; ~1m -8.17%
