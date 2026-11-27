@@ -348,3 +348,10 @@ date,section,flag_name,value,threshold,note
 2026-11-26,SEC10,VIX_GT20,26.71,20,Yahoo ^VIX bar dated 2026-11-26 (US holiday); 11-25 close 28.29; 1w -6.08% vs 11-19
 2026-11-26,SEC12,STABLECOIN_SUPPLY_CONTRACTING,supply 1w -2.97%,-1.0%,129.74bn on 11-25 vs 11-18; ~1m -7.69%
 2026-11-26,SEC12,CROWDED_CRYPTO_LEVERAGE,lev ratio pctile 91.2,90th pctile,est. leverage ratio 0.2528 (11-25; 11-26 partial same); funding 7d pctile 42.9
+2026-11-27,SEC2,HY_OAS_1W,+29bp w/w,10bp,HY 3.72 (2026-11-24) vs 3.43 (2026-11-17); same FRED print as 11-25/11-26 runs
+2026-11-27,SEC2,IG_OAS_1W,+6bp w/w,5bp,IG 0.98 (2026-11-24) vs 0.92 (2026-11-17); same FRED print as 11-25/11-26 runs
+2026-11-27,SEC7,WEAK_AUCTION_5Y,indirect -10.7pts vs T6,5pts,2026-09-23 ind 47.0 vs 57.7; BTC -0.12; feed newest 2026-10-22
+2026-11-27,SEC7,WEAK_AUCTION_20Y,indirect -10.4pts vs T6,5pts,2026-09-15 ind 52.1 vs 62.5; BTC -0.08; 10-21 reopening results pending
+2026-11-27,SEC10,VIX_GT20,25.21,20,Yahoo ^VIX 11-27 intraday; 1w -29.76% vs 35.89 on 11-20
+2026-11-27,SEC12,STABLECOIN_SUPPLY_CONTRACTING,supply 1w -2.62%,-1.0%,130.25bn on 11-26 vs 11-19; ~1m -7.40%
+2026-11-27,SEC12,CROWDED_CRYPTO_LEVERAGE,lev ratio pctile 92.1,90th pctile,est. leverage ratio 0.2539 (11-26; 11-27 partial same); funding 7d pctile 43.7
