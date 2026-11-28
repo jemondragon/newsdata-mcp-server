@@ -355,3 +355,5 @@ date,section,flag_name,value,threshold,note
 2026-11-27,SEC10,VIX_GT20,25.21,20,Yahoo ^VIX 11-27 intraday; 1w -29.76% vs 35.89 on 11-20
 2026-11-27,SEC12,STABLECOIN_SUPPLY_CONTRACTING,supply 1w -2.62%,-1.0%,130.25bn on 11-26 vs 11-19; ~1m -7.40%
 2026-11-27,SEC12,CROWDED_CRYPTO_LEVERAGE,lev ratio pctile 92.1,90th pctile,est. leverage ratio 0.2539 (11-26; 11-27 partial same); funding 7d pctile 43.7
+2026-11-27,SEC11,CROWDED_SHORT_ZN,1.9,10,net -1048899 as-of 2026-11-17 (STALE: expected 2026-11-24)
+2026-11-27,SEC11,CROWDED_SHORT_SI,1.9,10,net 18291 as-of 2026-11-17 (STALE: expected 2026-11-24)
